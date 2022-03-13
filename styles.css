@@ -1,0 +1,39 @@
+.center {
+	text-align: center;
+}
+.font1{
+	font-family:verdana
+}
+.font2{
+	font-family:helvetica;
+	font-size: large;
+}
+.font3{
+	font-family:verdana;
+}
+.green{
+	color:green
+}
+.red{
+	color:darkred
+}
+.blue{
+	color:darkblue
+}
+.orange{
+	color:orange
+}
+.purple{
+	color:purple
+}
+.white{
+	color:white
+}
+.back-color{
+	background-color: rgba(255, 255, 255, 0.65);
+}
+.background-image{
+	background-image: url('background.jpg');
+	background-repeat: no-repeat;
+  background-attachment: fixed;
+}
